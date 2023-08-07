@@ -2,7 +2,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # Replace 'YOUR_BOT_TOKEN' with the token you got from BotFather
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '6629617593:AAFmMpsNLuDh0CNH5cJ0KGQ_WWllnVS0E34'
 bot = telegram.Bot(token=TOKEN)
 
 def start(update, context):
